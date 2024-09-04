@@ -1,7 +1,7 @@
 # NodejsApiRouteCRUD
 
 ## Description
-This project makes use of CRUD API Routes to a sqlite database called users.
+This project makes use of CRUD API Routes to a sqlite database called users. <br>
 Stack: Node.js, Express, Sqlite3
 
 #### Usage
