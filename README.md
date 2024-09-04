@@ -2,6 +2,7 @@
 
 ## Description
 This project makes use of CRUD API Routes to a sqlite database called users.
+Stack: Node.js, Express, Sqlite3
 
 #### Usage
 On the VS Code, on the terminal tab, run ```node routes.js``` and it will start running the runtime environment. 
